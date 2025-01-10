@@ -16,11 +16,11 @@ For EV Owners
 	•	No Range Anxiety: Easily locate chargers, even in smaller towns, villages, or tourist spots.
 	•	Convenience: No need to rely solely on expensive, hard-to-find public charging infrastructure.
 
-## For Charger Owners
+For Charger Owners
 	•	Earn Income: Turn your unused EV charger into a money-making asset.
 	•	Flexibility: Whether you’re a homeowner or small business owner, join the network easily.
 
-## For the Environment
+For the Environment
 	•	Promotes Clean Energy: Encourages solar-powered chargers and makes EVs more accessible.
 	•	Reduces Pollution: Supports the widespread adoption of eco-friendly transportation.
 
