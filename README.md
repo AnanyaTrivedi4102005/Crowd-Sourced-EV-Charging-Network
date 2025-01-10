@@ -25,3 +25,6 @@ Future implemntation : Real-Time Tracking and Scheduling APP
 ~ The app shows all available chargers nearby, just like Zomato shows restaurants.
 
 ~ Users can book a time slot to avoid waiting. For instance, a delivery driver in Ahmedabad could pre-book charging at a local shop while taking a break.
+
+
+© Team Respawn | All Rights Reserved
